@@ -16,6 +16,7 @@
 				<version>8.1.5.v20120716</version>
 				<configuration>
 					<scanIntervalSeconds>0</scanIntervalSeconds>
+					<failOnMissingWebXml>false</failOnMissingWebXml>
 				</configuration>
 			</plugin>
 			<plugin>
